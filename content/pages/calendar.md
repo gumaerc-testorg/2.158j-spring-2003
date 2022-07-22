@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4af624e0-731f-dccd-010a-c425cc296e6a
 ---
@@ -40,7 +43,7 @@ Introduction; Classification of Geometric Modeling Forms
 Differential Geometry of Curves
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 Out ([PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1 Out ({{% resource_link 49a351e7-c87b-6064-3230-44aef7069925 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +79,7 @@ Introduction to Spline Curves
 Introduction to Spline Curves
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 Out ([PDF]({{< baseurl >}}/resources/ps2))
+Problem Set 2 Out ({{% resource_link 41395d35-e3a7-0878-2edf-bb8b6a0974df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +164,7 @@ Intersections
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 2 Due  
-Problem Set 3 Out ([PDF]({{< baseurl >}}/resources/ps3))
+Problem Set 3 Out ({{% resource_link 0006f0f3-4eb2-0e67-e3e2-a2df887eb53b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +200,7 @@ Interval Methods, Robustness
 Offset Curves and Surfaces
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 Out ([PDF]({{< baseurl >}}/resources/ps4))
+Problem Set 4 Out ({{% resource_link 99f69860-87ae-df3f-d7e2-b85fa992aeb0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +236,7 @@ B-rep and Non-Manifold Mixed Dimension Models
 Computer Graphics Techniques
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 Out ([PDF]({{< baseurl >}}/resources/ps5))
+Problem Set 5 Out ({{% resource_link df6ad36f-d3f7-4455-b753-41023a441e8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
