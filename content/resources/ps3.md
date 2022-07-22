@@ -5,6 +5,7 @@ file: /courses/2-158j-computational-geometry-spring-2003/0006f0f34eb20e67e3e2a2d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3.pdf
 uid: 0006f0f3-4eb2-0e67-e3e2-a2df887eb53b
 ---
 Problem set.
-

@@ -5,6 +5,7 @@ file: /courses/2-158j-computational-geometry-spring-2003/f8dab768bd5cd00fe9ab304
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecnotes10.pdf
 uid: f8dab768-bd5c-d00f-e9ab-304be34c6258
 ---
 Lecture notes.
-
