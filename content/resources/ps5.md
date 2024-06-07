@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/2-158j-computational-geometry-spring-2003/df6ad36fd3f74455b75341023a441e8f_ps5.pdf
+file_size: 41159
 file_type: application/pdf
 learning_resource_types:
 - Assignments
