@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/2-158j-computational-geometry-spring-2003/41395d35e3a708782edfbb8b6a0974df_ps2.pdf
+file: /courses/2-158j-computational-geometry-spring-2003/41395d35e3a708782edfbb8b6a0974df_ps2.pdf
 file_size: 54325
 file_type: application/pdf
 learning_resource_types:
