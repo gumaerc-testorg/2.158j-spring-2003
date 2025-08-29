@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes.
-file: /courses/2-158j-computational-geometry-spring-2003/e58d71723e462b96821a8351d8e729ba_lecnotes6.pdf
+file: /ol-ocw-studio-app/courses/2-158j-computational-geometry-spring-2003/e58d71723e462b96821a8351d8e729ba_lecnotes6.pdf
 file_size: 206792
 file_type: application/pdf
 learning_resource_types:
