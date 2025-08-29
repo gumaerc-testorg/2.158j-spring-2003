@@ -51,9 +51,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "2e43605f-bc79-4845-b6e0-872789c1f60c",
   "site_short_id": "2.158j-spring-2003",
+  "site_url_path": "courses/2-158j-computational-geometry-spring-2003",
   "title": "Course Metadata"
 }
