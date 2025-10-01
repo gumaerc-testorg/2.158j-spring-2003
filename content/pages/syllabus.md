@@ -31,5 +31,5 @@ Course Grading (Individual Effort)
 Required Textbook
 -----------------
 
-*   Patrikalakis, N. M., T. Maekawa, and W. Cho. [_Shape Interrogation for Computer Aided Design and Manufacturing_](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/). New York, NY: Springer Verlag, 2010. ISBN: 978-3642040733. (Available from Springer & ResearchGate: [printed](http://www.springer.com/mathematics/numerical+and+computational+mathematics/book/978-3-642-04073-3), [electronic](https://www.researchgate.net/publication/200018912_Shape_Interrogation_for_Computer_Aided_Design_and_Manufacturing))
+*   Patrikalakis, N. M., T. Maekawa, and W. Cho. {{% resource_link "febf6161-b90a-4e90-99a7-ff176e1e3d01" "_Shape Interrogation for Computer Aided Design and Manufacturing_" %}}. New York, NY: Springer Verlag, 2010. ISBN: 978-3642040733. (Available from Springer & ResearchGate: {{% resource_link "8e1b696a-d726-4991-9657-eb75eded8b8a" "printed" %}}, {{% resource_link "a9bd1ba5-1a41-4e73-8e73-ba21fb95e824" "electronic" %}})
 *   Additional lecture notes will be handed out in class.
